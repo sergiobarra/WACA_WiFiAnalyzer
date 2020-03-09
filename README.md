@@ -12,7 +12,7 @@ WACA is a platform built with [WARP v3 boards](http://warpproject.org) that simu
 <img src="https://github.com/sergiobarra/WACA_WiFiAnalyzer/blob/master/resources/images/waca_design.PNG" alt="WACA design"
 	title="WACA design" width="600" />
 
-<img src="https://github.com/sergiobarra/WACA_WiFiAnalyzer/blob/master/resources/images/waca_deployment.PNG" alt="WACA deployment"
+<img src="https://github.com/sergiobarra/WACA_WiFiAnalyzer/blob/master/resources/images/waca_deployment.png" alt="WACA deployment"
 	title="WACA deployment" width="300" />
 
 ### Repository description
