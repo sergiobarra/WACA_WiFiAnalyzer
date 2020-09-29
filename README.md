@@ -1,4 +1,4 @@
-# WACA: All Channel WiFi Analyzer
+# WACA: Wi-Fi All-Channel Analyzer
 
 **Scientific papers using WACA**: 
 - Barrachina-Muñoz, S., Bellalta, B., & Knightly, E. (2020, September). Wi-Fi All-Channel Analyzer. In Proceedings of the 14th International Workshop on Wireless Network Testbeds, Experimental evaluation & Characterization (pp. 72-79). [Slides](https://github.com/sergiobarra/WACA_WiFiAnalyzer/blob/master/resources/slides/barrachina_waca_wintech2020.pdf) and [video](https://www.youtube.com/watch?v=QxOGX7h-YRc&t=0s) of the presentation.
