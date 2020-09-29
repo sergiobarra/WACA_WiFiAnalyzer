@@ -1,7 +1,7 @@
 # WACA: All Channel WiFi Analyzer
 
 **Scientific papers using WACA**: 
-- Sergio Barrachina-Muñoz, Boris Bellalta, and Edward Knightly. 2020. Wi-Fi All-Channel Analyzer. *WinTech (2020)* (in press).
+- Barrachina-Muñoz, S., Bellalta, B., & Knightly, E. (2020, September). Wi-Fi All-Channel Analyzer. In Proceedings of the 14th International Workshop on Wireless Network Testbeds, Experimental evaluation & Characterization (pp. 72-79). [Slides](https://github.com/sergiobarra/WACA_WiFiAnalyzer/blob/master/resources/slides/barrachina_waca_wintech2020.pdf) and [video](https://www.youtube.com/watch?v=QxOGX7h-YRc&t=0s) of the presentation.
 - *To be announced.
 
 ### Author
@@ -20,6 +20,11 @@ WACA is a platform built with [WARP v3 boards](http://warpproject.org) that simu
 ### Repository description
 This repository contains the WARPLab (Matlab) code for taking RSSI measurements in a periodic basis.
 * Main file: waca_main.m
+
+### Dataset v1 (2019)
+The dataset presented in "Sergio Barrachina-Muñoz, Boris Bellalta, and Edward Knightly. 2020. Wi-Fi All-Channel Analyzer. WinTech (2020)". *Another in-depth analysis of the datasets is going to be published in short.*
+- [Complete dataset](https://zenodo.org/record/3952557) (multiple .zip files).
+- [Camp Nou stadium dataset](https://zenodo.org/record/3960029) (single .zip file). 
 
 ### Contribute
 
