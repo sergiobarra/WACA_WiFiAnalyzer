@@ -1,8 +1,9 @@
 # WACA: Wi-Fi All-Channel Analyzer
 
 **Scientific papers using WACA**: 
+- Barrachina-Muñoz, S., & Knightly, E. W. (2021). Wi-Fi Channel Bonding: An All-Channel System and Experimental Study From Urban Hotspots to a Sold-Out Stadium. IEEE/ACM Transactions on Networking. [Paper](https://ieeexplore.ieee.org/document/9431669).
 - Barrachina-Muñoz, S., Bellalta, B., & Knightly, E. (2020, September). Wi-Fi All-Channel Analyzer. In Proceedings of the 14th International Workshop on Wireless Network Testbeds, Experimental evaluation & Characterization (pp. 72-79). [Slides](https://github.com/sergiobarra/WACA_WiFiAnalyzer/blob/master/resources/slides/barrachina_waca_wintech2020.pdf) and [video](https://www.youtube.com/watch?v=QxOGX7h-YRc&t=0s) of the presentation.
-- *To be announced.
+
 
 ### Author
 * [Sergio Barrachina-Muñoz](https://github.com/sergiobarra)
